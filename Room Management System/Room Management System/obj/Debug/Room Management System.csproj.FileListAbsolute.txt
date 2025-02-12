@@ -1,0 +1,16 @@
+C:\Users\Floof\source\repos\Room Management System\Room Management System\bin\Debug\Room Management System.exe.config
+C:\Users\Floof\source\repos\Room Management System\Room Management System\bin\Debug\Room Management System.exe
+C:\Users\Floof\source\repos\Room Management System\Room Management System\bin\Debug\Room Management System.pdb
+C:\Users\Floof\source\repos\Room Management System\Room Management System\bin\Debug\MySql.Data.dll
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.csproj.AssemblyReference.cache
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.LoginForm.resources
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.Properties.Resources.resources
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.csproj.GenerateResource.cache
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.csproj.CoreCompileInputs.cache
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.csproj.CopyComplete
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.exe
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room Management System.pdb
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.Main_Form.resources
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.ManageClientsForm.resources
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.ManageReservationForm.resources
+C:\Users\Floof\source\repos\Room Management System\Room Management System\obj\Debug\Room_Management_System.ManageRoomsForm.resources
